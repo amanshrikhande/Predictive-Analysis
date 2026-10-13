@@ -11,7 +11,6 @@ Aircraft engines operate under changing conditions, and sensor measurements can 
 
 The project develops and evaluates traditional machine-learning regression models using four subsets of the NASA C-MAPSS benchmark dataset: FD001, FD002, FD003 and FD004. It covers data understanding, preprocessing, target creation, model training, validation, test prediction, evaluation and interpretation.
 
-This implementation intentionally excludes deep learning, CNNs, LSTMs and neural-network models.
 
 ## 2. Problem Statement
 
